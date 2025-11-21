@@ -274,8 +274,7 @@ Potential Advanced Enhancement: Add few-shot exemplars with simplified questions
 
 ---
 
----
-## 21. Appendix A – Key Code Fragments
+## 20. Appendix A – Key Code Fragments
 ```js
 // Model allowlist (security gate)
 const ALLOWED_MODELS = [ 'models/gemini-2.5-pro', 'models/gemini-2.5-flash', 'models/gemini-2.0-flash', ... ];
@@ -305,7 +304,7 @@ generationConfig: {
 ```
 
 ---
-## 22. Appendix B – Future Monitoring Metrics (Proposed)
+## 21. Appendix B – Future Monitoring Metrics (Proposed)
 | Metric | Definition | Tooling |
 |--------|------------|---------|
 | Generation Latency | Time from request dispatch → response parse | APM (New Relic / OpenTelemetry) |
@@ -315,11 +314,11 @@ generationConfig: {
 | Print Conversion Rate | Prints ÷ total generations | Frontend event tracking |
 
 ---
-## 23. Instructor Summary (Concise Hand-off)
+## 22. Instructor Summary (Concise Hand-off)
 Questify delivers secure, schema-guided AI question generation across three productized model tiers, with polished educator UX, print fidelity, and foundational security controls (CORS, allowlists, secret isolation). Current implementation is stable and extensible; clear roadmap exists for authentication, analytics, and adaptive learning features.
 
 ---
-## 24. Accreditation & Ethical Use Considerations
+## 23. Accreditation & Ethical Use Considerations
 | Area | Consideration |
 |------|---------------|
 | Academic Integrity | Output used as formative assessment aids; discourage direct student answer distribution without review |
@@ -327,7 +326,7 @@ Questify delivers secure, schema-guided AI question generation across three prod
 | Data Minimization | No persistence of raw materials (currently); adopt retention policies if storing |
 
 ---
-## 25. Closing
+## 24. Closing
 Questify is architected not merely as a feature but as a platform foundation—cleanly separated layers, schema discipline, and clear extensibility pathways. This positions it for sustainable scaling, institutional trust, and iterative innovation.
 
 > Ready for next phase: authentication + persistence + analytics.
