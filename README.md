@@ -19,8 +19,6 @@ Questify transforms raw course materials (pasted text or uploaded PDFs / text fi
 4. Print-ready output – seamless export to physical or PDF distribution.
 5. Secure handling of proprietary teaching materials (no client-side key leakage).
 
-**Strategic Positioning**: A “billion‑dollar” narrative centers on scalable teacher productivity tools, model abstraction, data privacy, and extensibility toward institutional analytics, LMS integration, and adaptive learning.
-
 ---
 ## 2. Product Tiers (Model Abstraction Layer)
 | Tier Name          | Underlying Model            | Latency Profile | Use Case Emphasis                |
