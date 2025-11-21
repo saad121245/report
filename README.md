@@ -273,8 +273,6 @@ Elements inserted:
 Potential Advanced Enhancement: Add few-shot exemplars with simplified questions to further reduce variance, cached server-side.
 
 ---
-## 20. Billion-Dollar Vision Narrative (Condensed)
-Questify evolves from a generation utility into a **curriculum intelligence platform**: ingest entire course ecosystems, map questions to standards, surface competency gaps, and orchestrate adaptive reinforcement loops. Enterprises license analytics & compliance modules; institutions integrate secure multi-tenant deployments with on-prem AI fallbacks. Data network effects compound as anonymized rubric performance informs model fine-tuning (within privacy boundaries). The foundation already exists: clean separation, schema discipline, and model abstraction.
 
 ---
 ## 21. Appendix A – Key Code Fragments
